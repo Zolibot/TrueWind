@@ -1,6 +1,8 @@
 ## **TrueWindCalc**
 
-<img src="docs/Preview.gif" alt="drawing" style="width:200px;"/>
+<p align="center">
+<img src="docs/Preview.gif"  alt="drawing" style="width:200px;"/>
+</p>
 
 ![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/badge/Godot-3.5-brightgreen)
