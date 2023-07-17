@@ -52,7 +52,7 @@ func go():
 func _on_HSliderWindSpeed_value_changed(value):
 	wind_speed = value
 	$MarginContainer/VBoxContainer/WindSpeed/Label.set_text(
-		"Wind speed: {}".format([value], "{}")
+		"Wind speed: {} m/s".format([value], "{}")
 	)
 	go()
 
@@ -60,7 +60,7 @@ func _on_HSliderWindSpeed_value_changed(value):
 func _on_HSliderWindDirection_value_changed(value):
 	wind_direction = value
 	$MarginContainer/VBoxContainer/WindDirection/Label.set_text(
-		"Wind direction: {}".format([value], "{}")
+		"Wind direction: {} deg".format([value], "{}")
 	)
 	go()
 
@@ -71,7 +71,7 @@ func true_wind():
 func _on_HSliderShipSpeed_value_changed(value):
 	ship_speed = value
 	$"MarginContainer/VBoxContainer/ShipSpeed/Label".set_text(
-		"Ship speed: {}".format([value], "{}")
+		"Ship speed: {} knots".format([value], "{}")
 	)
 	go()
 
@@ -79,7 +79,7 @@ func _on_HSliderShipSpeed_value_changed(value):
 func _on_HSliderShipCourse_value_changed(value):
 	ship_course = value
 	$MarginContainer/VBoxContainer/ShipCourse/Label.set_text(
-		"Ship course: {}".format([value], "{}")
+		"Ship course: {} deg".format([value], "{}")
 	)
 	go()
 
