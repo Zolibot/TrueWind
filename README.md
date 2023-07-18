@@ -1,4 +1,4 @@
-## **TrueWindCalc**
+##  <p style="text-align: center;"><img src="icon.png"  alt="drawing" style="width:25px;"/> TrueWindCalc</p>
 
 <p align="center">
 <img src="docs/Preview.gif"  alt="drawing" style="width:200px;"/>
@@ -11,7 +11,7 @@
 
 ## **Оглавление**
 
-- [**TrueWindCalc**](#truewindcalc)
+- [ TrueWindCalc](#-truewindcalc)
 - [**Оглавление**](#оглавление)
   - [**Проект TrueWindCalc**](#проект-truewindcalc)
     - [**Технологии:**](#технологии)
